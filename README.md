@@ -1,7 +1,8 @@
 # Hi there, I'm Ghadeer Alqahtani
 
 ### About Me
-I am a dedicated **Business Intelligence Specialist at the National Water Company** and a Management Information Systems graduate from King Saud University. I specialize in bridging the gap between complex operational data and strategic decision-making through advanced data modeling, robust SQL querying, and high-impact Power BI analytics.
+I am a dedicated **Business Intelligence Specialist at the National Water Company** and a Management Information Systems graduate from King Saud University. 
+I specialize in bridging the gap between complex operational data and strategic decision-making through advanced data modeling, robust SQL querying, and high-impact Power BI analytics.
 
 ---
 
